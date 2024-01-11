@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="theme">#82B428</color>
+    <color name="navigation">#FFF0E9</color>
+    <color name="my_light_primary">#004A33</color>
+    <color name="plantprice">#D15B92</color>
+    <color name="toptab">#E58921</color>
+</resources>

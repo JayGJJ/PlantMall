@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    配置底部导航栏-->
+    <item android:id="@+id/home"
+        android:title="首页"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item android:id="@+id/cart"
+        android:title="购物车"
+        android:icon="@drawable/baseline_shopping_cart_24"/>
+
+    <item android:id="@+id/order"
+        android:title="订单"
+        android:icon="@drawable/baseline_reorder_24" />
+
+    <item android:id="@+id/mine"
+        android:title="我的"
+        android:icon="@drawable/baseline_account_circle_24"/>
+
+</menu>
